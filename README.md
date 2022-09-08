@@ -1,16 +1,12 @@
 # my_task
 
-A new Flutter project.
+# Todo App
+  <p align="center">
+ <img src="https://user-images.githubusercontent.com/78268762/189082429-c56c383c-ad71-48e6-aad5-91c4aeb85d2b.png" width="220" height="400" />
+&nbsp; &nbsp; &nbsp; 
+ 
+                                                                                                                   
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
